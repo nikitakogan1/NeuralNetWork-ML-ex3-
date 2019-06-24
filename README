@@ -7,7 +7,7 @@ After exploring different hyper-paramters (such as learning rate, number of epoc
 and their size), we achieved a (k = 5, 80%(learning set)-20%(validation set)), cross validation verified, over 85& success rate.
 The values we found giving this rate are:
 learning rate = 0.01
-one hidden layer sized 200
+one hidden layer sized 100
 and 50 epcochs during the learning phase
 
 A PDF report of our work is also included.
